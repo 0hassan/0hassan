@@ -33,7 +33,7 @@
       https://www.rootstutorservices.com/
       https://www.skntechnical.com/
       SOKAAT mobile app api design.
-      Confidential projects cant share here
+      Medical related hospotla managemnt tsystems for us based hospitals, Confidential projects cant share futher information.
 - 📫 Reach me on tahirniacci@gmail.com and can wattsapp me at +923048464250 
 
 <!---
