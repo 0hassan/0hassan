@@ -34,7 +34,7 @@
       https://www.skntechnical.com/
       SOKAAT mobile app api design.
       Medical related hospotla managemnt tsystems for us based hospitals, Confidential projects cant share futher information.
-- 📫 Reach me on tahirniacci@gmail.com and can wattsapp me at +923048464250 
+- 📫 Reach me through my GitHub profile.
 
 <!---
 0hassan/0hassan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
