@@ -153,19 +153,19 @@ Prefer maintainable systems over clever code.
 
 Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0hassan&show_icons=true&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0hassan&layout=compact&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=0hassan&hide_border=true)
 
 ---
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/)
+- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/hassan-niacci?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 - Portfolio: [Add your portfolio URL](https://example.com/)
-- Email: `your-email@example.com`
+- Email: `tahirniacci009@gmail.com`
 
 ---
 
