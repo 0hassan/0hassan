@@ -163,8 +163,8 @@ Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
 
 ## Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL](https://www.linkedin.com/in/hassan-niacci?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-- Portfolio: [Add your portfolio URL](https://example.com/)
+- LinkedIn: [M-Tahir Hassan](https://www.linkedin.com/in/hassan-niacci?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+- Portfolio: [hassan.com](https://example.com/)
 - Email: `tahirniacci009@gmail.com`
 
 ---
