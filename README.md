@@ -151,12 +151,6 @@ Prefer maintainable systems over clever code.
 
 ## GitHub Stats
 
-Replace `YOUR_GITHUB_USERNAME` with your GitHub username.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=0hassan&show_icons=true&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=0hassan&layout=compact&hide_border=true)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=0hassan&hide_border=true)
 
 ---
